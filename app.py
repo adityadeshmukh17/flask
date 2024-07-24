@@ -27,5 +27,3 @@ def test2():
 
 if __name__=="__main__":
     app.run(host="0.0.0.0")
-# https://github.com/adityadeshmukh17/flask.git
-# git push -u origin main
